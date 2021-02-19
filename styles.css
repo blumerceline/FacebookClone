@@ -1,0 +1,134 @@
+body{
+  text-align: center;
+  background-color: #e7e6e1;
+    color: #383e56;
+}
+
+hr{
+  width: 100px;
+  margin-top: 0;
+}
+
+
+h4{
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.top_banner{
+  background-color: white;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.cover_container{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+
+}
+
+.cover_photo{
+      text-align: center;
+      object-fit: cover;
+      width:800px;
+      height:230px;
+      border-radius: 0 0 4% 4%;
+}
+
+.profile_container{
+  text-align: center;
+}
+
+.profile_pic{
+  width: 150px;
+  height: 150px;
+  margin: -100px;
+  position: block;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.about{
+  position: block;
+  margin-top: 75px;
+  font-family: sans-serif;
+  color: #383e56;
+  margin-bottom: 0;
+}
+
+.name_user{
+  margin-bottom: 0;
+}
+
+.tag{
+  font-size: 13px;
+  padding:0;
+  color: #5b5b5b;
+}
+
+.bio{
+  color:#0d335d;
+  font-family: sans-serif;
+}
+
+.follow_button{
+  margin-bottom: 30px;
+}
+
+.followers_following{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 11px;
+}
+
+.goals_display{
+  width: 800px;
+  margin: 0 auto;
+
+
+}
+
+
+.goal_button{
+ margin: 30px 0 0px 0;
+}
+
+
+.followers{
+  text-align: right;
+}
+
+.following{
+  text-align: left;
+}
+
+.current_goals_container{
+  padding: 30px;
+  background-color: white;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: block;
+}
+
+.current_goals_group a{
+  background-color:  #383e56;
+  color:  white;
+  border-color: white;
+}
+
+.card{
+  display: flex;
+  margin: 0px 50px;
+}
+
+.completed_goals_container{
+  margin: 25px 0;
+  padding: 30px;
+  background-color: white;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: block;
+}
